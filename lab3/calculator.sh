@@ -43,6 +43,4 @@ esac
 shift 2
 done
 
-  echo "Result of your expression is $res"
-
-
+echo "Result of your expression is $res"
